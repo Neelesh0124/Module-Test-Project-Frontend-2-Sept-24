@@ -1,0 +1,183 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.maindiv{
+    margin-top: 50px;
+}
+h2{
+    margin-left: 30px;
+}
+form{
+    width: 100%;
+    display: flex;
+    margin-top: 30px; 
+    justify-content: space-around;  
+}
+form>div{
+    width: 355px;
+    height: 50px;
+}
+input {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 20px;
+    
+}
+button{
+    width: 200px;
+    height:40px;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: center;
+    
+}
+h2{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+}
+div.content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+div.content>h3{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: center;
+    color: black;
+}
+
+div.content>p{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: center;
+    color: black;   
+}
+
+div.content>a{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29.05px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+}
+
+div.content>a:hover{
+    background-color: #FFFFFF;
+    color: black;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+}
+
